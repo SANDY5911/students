@@ -1,1 +1,2 @@
 # students
+hello friends
